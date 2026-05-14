@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.env
+.env*.local
+.venv/
+venv/
+env/
+*.log
+aeo-report.md
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
